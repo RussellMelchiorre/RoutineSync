@@ -5,7 +5,7 @@ RoutineSync
 This browser based web application to help keep you and your friends on task and improve your productivity, you can create and delete events, use preset timers, create custom timers and alarms, and manage your friendships. 
 
 ## 2. Names of Contributors
-* ... Hailey Kim, I'm from Korea, I'm a cat person
+* Hailey Kim
 * Russell Melchiorre
 * Tyrone Cheang
 	
@@ -14,7 +14,6 @@ This browser based web application to help keep you and your friends on task and
 * Bootstrap 5.0 (Frontend library)
 * Firebase 8.0 (BAAS - Backend as a Service)
 * Google material icons
-* 
 
 ## 4. Complete setup/installion/usage
 State what a user needs to do when they come to your project.  How do others start using your code or application?
@@ -26,7 +25,6 @@ Here are the steps ...
 Here are some known bugs:
 * Sometimes the notifications bell will not load in properly and only display its identificator "notifications".
 * The repeat event function sometimes does not stop on the end date.
-* ...
 
 ## 6. Features for Future
 What we'd like to build in the future:
