@@ -2,7 +2,7 @@
 RoutineSync
 
 ## 1. Project Description
-This browser based web application to help keep you and your friends on task and improve your productivity, you can create and delete events, use preset timers, create custom timers and alarms, and manage your friendships. 
+RoutineSync is a browser-based productivity web app designed to help you and your friends stay on task and manage your time efficiently. With features like customizable timers, alarms, event creation, and friend management, you can coordinate schedules and boost productivity all in one place.
 
 ## 2. Names of Contributors
 * Hailey Kim
@@ -15,22 +15,19 @@ This browser based web application to help keep you and your friends on task and
 * Firebase 8.0 (BAAS - Backend as a Service)
 * Google material icons
 
-## 4. Complete setup/installion/usage
-State what a user needs to do when they come to your project.  How do others start using your code or application?
-Here are the steps ...
+## 4. Complete setup/installation/usage
 * The project can be hosted through a liveserve service
-* The project can also be acessed at: https://comp-1800-202430-team05.web.app/
+* The project can also be accessed at: https://comp-1800-202430-team05.web.app/
 
 ## 5. Known Bugs and Limitations
-Here are some known bugs:
-* Sometimes the notifications bell will not load in properly and only display its identificator "notifications".
-* The repeat event function sometimes does not stop on the end date.
+* The notifications bell does not load in properly and only displays its identifier "notifications".
+* The repeat event function occasionally stops on the wrong end date.
 
 ## 6. Features for Future
 What we'd like to build in the future:
-* We would like to add better navigation such as where friends names can be clicked to bring up thier events.
+* We would like to add better navigation such as being able to click friends names bring up their events.
 * We would like to add a feature to be able to import external calendars.
-* We would like to add a way to add friend and login through external sources.
+* We would like to add a way to add friends and the ability to login through external sources.
 * We would like to add timers which work across all pages.
 	
 ## 7. Contents of Folder
